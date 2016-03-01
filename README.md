@@ -9,7 +9,7 @@ Controls scheme is:
 
 **Use item:** Left Ctrl
 
-To run:
+To run software:
 
   1) Import project into eclipse and build solution. 
   
